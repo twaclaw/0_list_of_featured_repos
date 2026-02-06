@@ -85,7 +85,7 @@
   <tr>
     <td width="400">
       <a href="https://github.com/twaclaw/canismajor">
-        <img src="https://img.youtube.com/vi/xoI_YOJNLg0/0.jpg " alt="Canismajor Repository" width="100%">
+        <img src="https://img.youtube.com/vi/xoI_YOJNLg0/0.jpg" alt="Canismajor Repository" width="100%">
       </a>
     </td>
     <td>
